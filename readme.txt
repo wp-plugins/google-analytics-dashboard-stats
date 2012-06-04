@@ -7,12 +7,14 @@ Author URI: http://www.mikemattner.com
 Tags: Google Analytics, dashboard widget
 Requires at least: 2.8
 Tested up to: 3.3.2
-Stable tag: 1.5.1
+Stable tag: 1.5.2
 
-By default, this displays an overview of visits and pageviews on your dashboard. You can also choose to add top content and top sources.
+By default, this displays an overview of visits and pageviews on your dashboard.
 
 == Description ==
-By default, this displays an overview of visits and pageviews on your dashboard. You can also choose to add top content and top sources.
+This plugin allows you to display an overview of visits and pageviews on your dashboard and, if you choose, can also show top content and top sources. 
+
+Using it is fairly easy: simply install the plugin; setup an application specific password for your WordPress installation and Analytics account; enter the property ID of of the analytics profile you want to show as well as a title to identify it; and you should be all set.
 
 
 == Features ==
@@ -29,6 +31,9 @@ By default, this displays an overview of visits and pageviews on your dashboard.
 
 == Changelog ==
 
+= 1.5.2 =
+* Updated how the plugin handles css and javascript files in the admin.
+
 = 1.5.1 =
 * Fixed minor error handling issues.
 
@@ -40,4 +45,4 @@ By default, this displays an overview of visits and pageviews on your dashboard.
 
 == Upgrade Notice ==
 
-= 1.5.1 =
+= 1.5.2 =
