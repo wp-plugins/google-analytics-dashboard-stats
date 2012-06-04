@@ -7,7 +7,7 @@ Author URI: http://www.mikemattner.com
 Tags: Google Analytics, dashboard widget
 Requires at least: 2.8
 Tested up to: 3.3.2
-Stable tag: 1.5
+Stable tag: 1.5.1
 
 By default, this displays an overview of visits and pageviews on your dashboard. You can also choose to add top content and top sources.
 
@@ -29,6 +29,9 @@ By default, this displays an overview of visits and pageviews on your dashboard.
 
 == Changelog ==
 
+= 1.5.1 =
+* Fixed minor error handling issues.
+
 = 1.5 =
 * Production ready version.
 
@@ -37,4 +40,4 @@ By default, this displays an overview of visits and pageviews on your dashboard.
 
 == Upgrade Notice ==
 
-= 1.5 =
+= 1.5.1 =
