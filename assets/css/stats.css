@@ -1,0 +1,43 @@
+/* dashboard widget
+----------------------------------------------- */
+.stat_section {border: 1px solid #eee; background: #fff; padding: 5px 10px;}
+.stat_section strong {font-size: 14px;}
+.stat_section p, .stat_section strong {}
+
+.half-left {float: left; width: 45%; margin-right: 5%; -webkit-box-sizing: border-box;-moz-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;}
+.half-right {float: left; width: 45%; margin-left: 5%; -webkit-box-sizing: border-box;-moz-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;}
+
+#all_traffic {font-size: 12px;}
+#all_traffic .num {color: #777;}
+
+#top_content {font-size: 12px;}
+#top_content .num {color: #777;}
+
+.stats{text-align: center; width: 50%; border: 1px solid #eee; background: #fff; border-left: none; border-right: none; padding: 10px 9px; float: left;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;}
+.stats.last {border-left: 1px solid #eee;}
+.stat_section h2 {border-bottom: 1px solid #ededed; padding: 0 0 25px 0;}
+.stat_title {font-size: 12px; text-transform: uppercase; color: #777; margin-bottom: 0;}
+.stat_number{font-size: 24px; font-weight: bold; color: #000; margin-top: 0;}
+
+.upper-container {position: relative; padding: 10px 0;}
+.upper-container h1 {font-size: 24px; margin: 0; line-height: 42px; float: left;}
+.range_finder {display: none; width: 350px; position: absolute; right: 0; top: 47px; background: #fff; border: 1px solid #ccc; z-index: 9999; padding: 10px 15px;}
+.range_finder p {margin: 0;}
+.table_center {text-align: center; font-size: 14px; width: 35px; vertical-align: middle;}
+
+.chart {height: 200px;}
+
+.small-attribution {padding-top: 3px;}
+.small-attribution, .small-attribution a {font-size: 11px;}
+.small-border { border-top: 1px solid #ededed; }
+
+/* options page
+----------------------------------------------- */
+table.form-table.gads-opts {border-bottom: 1px solid #ededed; margin-bottom: 1em; margin-top: 0.5em;}
+#gads_code {background:#F9F9F9;font-family: Consolas,Monaco,monospace;font-size: 12px; outline: medium none; width:80%; height:300px;}
+.stats_help, .stats_help a {font-size: 12px;}
+
+/* Contain floats: h5bp.com/q */
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }
