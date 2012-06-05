@@ -279,7 +279,7 @@ class GADS_STATS_Functions {
             'id'      => 'gads-connect',
             'title'   => __('Google Analytics Account Login', 'gads'),
             'content' => "
-			<p>In order to display Analytics data on your dashboard, you'll need to provide your Google Analytics account login data&mdash;but you can't user your normal password. The <a href=\"http://code.google.com/apis/analytics/docs/gdata/v3/gdataGettingStarted.html\" target=\"_blank\">Core Reporting API 2.4</a> requires that you setup a unique application password.</p>
+			<p>In order to display Analytics data on your dashboard, you'll need to provide your Google Analytics account login data&mdash;but you can't use your normal password. The <a href=\"http://code.google.com/apis/analytics/docs/gdata/v3/gdataGettingStarted.html\" target=\"_blank\">Core Reporting API 2.4</a> requires that you setup a unique application password.</p>
 			<p><strong>How do I do set up an application password?</strong> The process itself is actually pretty simple.</p>
 			<ol>
 			   <li>First you'll need to setup up <a href=\"https://support.google.com/accounts/bin/answer.py?hl=en&topic=1056283&answer=185839\" target=\"_blank\">2-Step verification</a> on your Google Account.</li>
