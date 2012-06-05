@@ -39,7 +39,7 @@ If you need help, visit the plugin's settings page and view the help tab.
 
 = My password isn't working, what am I doing wrong? =
 
-In order to display Analytics data on your dashboard, you'll need to provide your Google Analytics account login data—but you can't user your normal password. The Core Reporting API 2.4 requires that you setup a unique application password.
+In order to display Analytics data on your dashboard, you'll need to provide your Google Analytics account login data-but you can't user your normal password. The Core Reporting API 2.4 requires that you setup a unique application password.
 
 How do I do set up an application password? The process itself is actually pretty simple.
 
