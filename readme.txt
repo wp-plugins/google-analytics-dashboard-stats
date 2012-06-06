@@ -7,7 +7,7 @@ Author URI: http://www.mikemattner.com
 Tags: Google Analytics, dashboard widget
 Requires at least: 3.3.0
 Tested up to: 3.3.2
-Stable tag: 1.5.4
+Stable tag: 1.5.5
 
 Displays an overview of visits and pageviews on your dashboard; additionally, you can include your Analytics tracking code on your site.
 
@@ -69,6 +69,10 @@ This is a very basic way to add tracking code to your site's head tags, so I sug
 
 == Changelog ==
 
+= 1.5.5 =
+* Added option to remove dashboard widget.
+* Updated options page organization.
+
 = 1.5.4 =
 * Better option handling.
 * Remove settings on deactivation/uninstall.
@@ -94,4 +98,4 @@ This is a very basic way to add tracking code to your site's head tags, so I sug
 
 == Upgrade Notice ==
 
-= 1.5.4 =
+= 1.5.5 =
