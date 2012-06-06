@@ -7,7 +7,7 @@ Author URI: http://www.mikemattner.com
 Tags: Google Analytics, dashboard widget
 Requires at least: 3.3.0
 Tested up to: 3.3.2
-Stable tag: 1.5.3
+Stable tag: 1.5.4
 
 Displays an overview of visits and pageviews on your dashboard; additionally, you can include your Analytics tracking code on your site.
 
@@ -22,10 +22,13 @@ Setting up your tracking code is as simple as copying and pasting the code and t
 
 If you need help, visit the plugin's settings page and view the help tab.
 
-== Features ==
+= Features =
 * Dashboard widget showing a graph of visits and pageviews.
 * Widget can also include top content and top sources.
 * Add Google Analytics tracking code to your site.
+
+= Future Plans =
+Version 2.0 will be setup to work with the new Core Reporting API 3.0 as the version in use now will be deprecated soon.
 
 == Installation ==
 
@@ -39,7 +42,7 @@ If you need help, visit the plugin's settings page and view the help tab.
 
 = My password isn't working, what am I doing wrong? =
 
-In order to display Analytics data on your dashboard, you'll need to provide your Google Analytics account login data-but you can't use your normal password. The Core Reporting API 2.4 requires that you setup a unique application password.
+In order to display Analytics data on your dashboard, you'll need to provide your Google Analytics account login data-but you can't use your normal password. You'll need to setup a unique application password.
 
 How do I do set up an application password? The process itself is actually pretty simple.
 
@@ -66,6 +69,10 @@ This is a very basic way to add tracking code to your site's head tags, so I sug
 
 == Changelog ==
 
+= 1.5.4 =
+* Better option handling.
+* Remove settings on deactivation/uninstall.
+
 = 1.5.3 =
 * Now sets defaults on activation.
 * Updated backend.
@@ -87,4 +94,4 @@ This is a very basic way to add tracking code to your site's head tags, so I sug
 
 == Upgrade Notice ==
 
-= 1.5.3 =
+= 1.5.4 =
