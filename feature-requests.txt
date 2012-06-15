@@ -1,0 +1,4 @@
+Feature Requests
+======================================
+
+* I was wonderign whether there's any chance of seeing incoming search terms on a per post/page basis - both on the Post/Page listing as well as on individual Post/Page Edit screens? Helpful in tweaking content based on incoming terms.
